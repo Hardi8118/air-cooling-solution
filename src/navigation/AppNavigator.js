@@ -7,7 +7,7 @@ import RegisterScreen from '../screens/RegisterScreen';
 import HomeUserScreen from '../screens/HomeUserScreen';
 import HomeTechnicianScreen from '../screens/HomeTechnicianScreen';
 import BookingScreen from '../screens/BookingScreen';
-import HomeTechnicianScreen from '../screens/HomeTechnicianScreen';
+
 import ChatScreen from '../screens/ChatScreen';
 import TrackTechnicianScreen from '../screens/TrackTechnicianScreen';
 import PaymentScreen from '../screens/PaymentScreen';
